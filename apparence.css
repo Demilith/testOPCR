@@ -5,3 +5,11 @@ title{
 	padding: 25px;
 	margin: 25px;
 }
+
+p{
+	background-color: grey;
+	width: 100px;
+	border: 5px solid red;
+	padding: 5px;
+	margin: 5px;
+}
